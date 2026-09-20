@@ -1,0 +1,6 @@
+npm install{
+  "name": "Geston - Safety At Every Breath!",
+  "description": "Multi Cylinder smart LPG gas leak detection, manifold valve control, environmental telemetry, and real-time safety automation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
